@@ -2,43 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://predict.garden/</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://predict.garden/privacy.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://predict.garden/blog-best-composting-methods-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.garden/blog-best-garden-tools-beginners-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://predict.garden/blog-best-gardening-tools-2026.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.garden/blog-best-lawn-mowers-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.garden/blog-best-raised-garden-beds-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.garden/blog-composting-beginners-guide-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://predict.garden/blog-election-prediction-markets.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.garden/blog-herb-garden-beginners-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://predict.garden/blog-indoor-plants-guide-2026.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://predict.garden/blog-predictions-2026.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://predict.garden/blog-vegetable-garden-guide-2026.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
